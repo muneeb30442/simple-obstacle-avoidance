@@ -1,2 +1,2 @@
-# simple-obstacle-avoidance
-A simple wheeled robot in Webots that uses an RGB camera to avoid obstacles.
+# Simple Obstacle Avoidance Robot
+This project uses an RGB camera to detect obstacles and avoid them using Python in Webots.
