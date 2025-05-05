@@ -1,0 +1,19 @@
+
+#VRML_SIM R2023b utf8
+
+WorldInfo {
+  basicTimeStep 32
+}
+
+Viewpoint {
+  orientation -0.38 0.91 0.14 1.52
+  position 1.5 2 1.5
+}
+
+TexturedBackground { }
+TexturedBackgroundLight { }
+
+MyRobot {
+  translation 0 0 0.1
+  rotation 0 1 0 0
+}
